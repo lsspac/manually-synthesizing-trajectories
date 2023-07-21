@@ -1,0 +1,2 @@
+# manually_synthesizing_trajectories
+人工合成轨迹数据集
